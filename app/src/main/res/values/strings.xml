@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">UpAction</string>
+    <string name="title_activity_child" />
 </resources>
